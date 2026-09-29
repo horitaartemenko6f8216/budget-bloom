@@ -1,0 +1,69 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D pastel lilac flower bud growing out of a gold coin, centered, soft radial gradient background from light violet to deep plum, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, deep plum dusk gradient with faint botanical line art, soft vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, soft lilac and cream paper texture with pressed flower shadows, gentle and airy, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, very soft blurred pale lavender paper, low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_flower_food",
+      "type": "sprite",
+      "prompt": "One single cute cartoon dusty-pink blossom, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_flower_transport",
+      "type": "sprite",
+      "prompt": "One single cute cartoon lavender bellflower, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_flower_home",
+      "type": "sprite",
+      "prompt": "One single cute cartoon sage-green succulent bloom, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_flower_fun",
+      "type": "sprite",
+      "prompt": "One single cute cartoon orchid-pink daisy, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_flower_health",
+      "type": "sprite",
+      "prompt": "One single cute cartoon pale blue forget-me-not, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_flower_other",
+      "type": "sprite",
+      "prompt": "One single cute cartoon grey-lilac clover bloom, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_bloom_bouquet",
+      "type": "sprite",
+      "prompt": "One single small pastel bouquet of three half-open buds in a tiny cream pot, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_leaf_sprig",
+      "type": "sprite",
+      "prompt": "One single thin botanical sprig with a few sage green leaves, centered icon, flat soft render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal mobile app button background, soft lilac to violet gradient, subtle satin sheen, rounded, no text"
+    }
+  ]
+}
